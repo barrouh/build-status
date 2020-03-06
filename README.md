@@ -1,9 +1,7 @@
-# build-status
-### build status of all my repositories
+# 👨🏻‍💻 build-status ⏳
 
-```diff
-! Continues builds
-```
+## continues builds 🏗
+
 parent-pom: ![Java CI](https://github.com/barrouh/parent-pom/workflows/Java%20CI/badge.svg)
 
 text-diff-checker: ![Java CI](https://github.com/barrouh/text-diff-checker/workflows/Java%20CI/badge.svg)
@@ -20,9 +18,9 @@ jds-maven-plugin: ![Java CI](https://github.com/barrouh/jds-maven-plugin/workflo
 
 jds-package-example: ![Java CI](https://github.com/barrouh/jds-package-example/workflows/Java%20CI/badge.svg)
 
-```diff
-! Nightly builds
-```
+
+ ## nightly builds 🌚
+
 parent-pom: ![Java CI Nightly](https://github.com/barrouh/parent-pom/workflows/Java%20CI%20Nightly/badge.svg)
 
 text-diff-checker: ![Java CI Nightly](https://github.com/barrouh/text-diff-checker/workflows/Java%20CI%20Nightly/badge.svg)
