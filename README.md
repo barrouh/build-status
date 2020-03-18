@@ -20,19 +20,19 @@ jds-package-example: [![Java CI](https://github.com/barrouh/jds-package-example/
 
 
  ## nightly builds 🌚
+ 
+ parent-pom: [![Java CI Nightly](https://github.com/barrouh/parent-pom/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/parent-pom)
 
-parent-pom: ![Java CI Nightly](https://github.com/barrouh/parent-pom/workflows/Java%20CI%20Nightly/badge.svg)
+text-diff-checker: [![Java CI Nightly](https://github.com/barrouh/text-diff-checker/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/text-diff-checker)
 
-text-diff-checker: ![Java CI Nightly](https://github.com/barrouh/text-diff-checker/workflows/Java%20CI%20Nightly/badge.svg)
+personal-website: [![Java CI](https://github.com/barrouh/personal-website/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/personal-website)
 
-personal-website: ![Java CI Nightly](https://github.com/barrouh/personal-website/workflows/Java%20CI%20Nightly/badge.svg)
+age-calculator-api: [![Java CI Nightly](https://github.com/barrouh/age-calculator-api/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/age-calculator-api)
 
-age-calculator-api: ![Java CI Nightly](https://github.com/barrouh/age-calculator-api/workflows/Java%20CI%20Nightly/badge.svg)
+java-deployment-system: [![Java CI Nightly](https://github.com/barrouh/java-deployment-system/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/java-deployment-system)
 
-java-deployment-system: ![Java CI Nightly](https://github.com/barrouh/java-deployment-system/workflows/Java%20CI%20Nightly/badge.svg)
+text-diff-checker-demo: [![Java CI](https://github.com/barrouh/text-diff-checker-demo/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/text-diff-checker-demo)
 
-text-diff-checker-demo: ![Java CI Nightly](https://github.com/barrouh/text-diff-checker-demo/workflows/Java%20CI%20Nightly/badge.svg)
+jds-maven-plugin: [![Java CI Nightly](https://github.com/barrouh/jds-maven-plugin/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/jds-maven-plugin)
 
-jds-maven-plugin: ![Java CI Nightly](https://github.com/barrouh/jds-maven-plugin/workflows/Java%20CI%20Nightly/badge.svg)
-
-jds-package-example: ![Java CI Nightly](https://github.com/barrouh/jds-package-example/workflows/Java%20CI%20Nightly/badge.svg)
+jds-package-example: [![Java CI Nightly](https://github.com/barrouh/jds-package-example/workflows/Java%20CI%20Nightly/badge.svg)](https://github.com/barrouh/jds-package-example)
